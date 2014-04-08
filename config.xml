@@ -5,13 +5,13 @@
 		version = "1.0.0"
 		versionCode = "1">
 
-    <name>APPLICATION NAME</name>
+    <name>Cohhilition App</name>
 
     <description>
-        APPLICATION DESCRIPTION
+        Application for The Cohhilition Gaming Community
     </description>
 
-    <author href="http://venerons.github.io" email="veneronslaboratories@gmail.com">Daniele Veneroni</author>
+    <author href="http://kreativegaming.com" email="rodr1c@rodr1c.com">Rodr1c</author>
         
     <!-- ICONS -->
         
